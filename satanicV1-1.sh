@@ -109,6 +109,7 @@ menu(){
     echo 'Tools pelacak akan diinstall...' | lolcat
     sleep 2
     pkg install python2
+    pip2 install requests
     git clone https://github.com/kereh/Findip
     cd Findip
     python2 findipv2.py
