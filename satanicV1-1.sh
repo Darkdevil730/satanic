@@ -96,6 +96,9 @@ menu(){
     
     5)clear
     echo 'Kode web akan diinstall...' | lolcat
+    pkg install figlet
+    pkg install ruby
+    gem install lolcat
     git clone https://github.com/Darkdevil730/Code.git
     cd Code
     sh luciferip.sh
@@ -105,6 +108,7 @@ menu(){
     6)clear
     echo 'Tools pelacak akan diinstall...' | lolcat
     sleep 2
+    pkg install python2
     git clone https://github.com/kereh/Findip
     cd Findip
     python2 findipv2.py
