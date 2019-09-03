@@ -124,7 +124,9 @@ menu(){
     ;;
     
     01)clear
-    echo 'Tools Installer v 1.0' | lolcat
+    echo 'Tools Installer v 1.1' | lolcat
+    echo 'Apa yg baru?' | lolcat
+    echo 'Memperbaiki bug yg terjadi di v 1.0' | lolcat
     echo 'Laporkan bila terjadi bug' | lolcat
     echo 'Copyright © 2019 D@rk_Devil#666' | lolcat
     echo 'Ingin kembali[y/n]' | lolcat
